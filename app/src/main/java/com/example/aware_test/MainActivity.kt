@@ -40,7 +40,7 @@ class MainActivity : AppCompatActivity() {
 
             sensorObserver = object : AppusageSensor.Observer {
                 override fun onDataChanged(datas: MutableList<AppusageData>?) {
-                    println("ondatachanged in mainActivity ${datas}")
+                    println("ondatachanged in mainActivity $datas")
                     //ここをいじる
                 }
             }

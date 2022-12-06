@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "666799170285",
+    "project_id": "awareesm-f005c",
+    "storage_bucket": "awareesm-f005c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:666799170285:android:115fa07eb67fe804b0e2e4",
+        "android_client_info": {
+          "package_name": "com.example.aware_test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "666799170285-n55kl5eslb61euk8uteeesrf9b25aen6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHqI5dAo551e-wTTDLdCzrLr5gdn49QPw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "666799170285-n55kl5eslb61euk8uteeesrf9b25aen6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
